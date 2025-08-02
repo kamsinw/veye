@@ -26,17 +26,7 @@ Here's a professional and clear `README.md` for your Veye project repository, op
 | Camera Interface    | ONVIF protocol                                           |
 | Connectivity        | VITEL 4G SIM-enabled cameras                             |
 
-## 📁 Project Structure
 
-```
-veye/
-├── ai/                     # YOLOv8 detection and model management
-├── config/                 # Shinobi and camera configs
-├── docker/                 # Docker Compose and Dockerfiles
-├── edge/                   # Scripts for edge device inference
-├── server/                 # Node.js backend for Shinobi and APIs
-└── README.md
-```
 
 ## 🚀 Getting Started
 
