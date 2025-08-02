@@ -1,4 +1,3 @@
-Here's a professional and clear `README.md` for your Veye project repository, optimized for technical clarity and presentation:
 
 ---
 
@@ -11,7 +10,7 @@ Here's a professional and clear `README.md` for your Veye project repository, op
 * **4G-Enabled Connectivity**: Seamless remote deployment using VITEL 4G SIMs — no Wi-Fi required.
 * **ONVIF Compatibility**: Supports a wide range of IP cameras out-of-the-box.
 * **Real-Time NVR Integration**: Built on Shinobi NVR with Node.js and Docker for scalable video stream handling.
-* **Intelligent Detection**: Human, vehicle, and weapon detection powered by YOLOv8.
+* **Intelligent Detection**: Human, vehicle, and weapon detection powered by YOLOv8.(In dev)
 * **Cloud + Edge Architecture**: Optimized inference on both local devices and cloud instances.
 * **Modular Design**: Built for future support of web/mobile frontends and expanded camera types.
 
